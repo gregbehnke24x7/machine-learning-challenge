@@ -1,1 +1,3 @@
 # machine-learning-challenge
+
+I believe the decision tree classifier model (model 1, 'GBehnke_DTM') was more accurate than the support vector model(model 2, 'Gbehnke_SVM').  The decision tree classifier had a accuracy of .67 after tuning while the support vector classifier has an accuracy score of only .59 after tuning.  I think experimenting with the attributes used along with better contextual understanding of their meaning would allow better modelling to be achieved.
